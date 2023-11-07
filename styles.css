@@ -1,0 +1,23 @@
+body {
+  background-color: #ffffff;
+}
+
+h1 {
+  text-align: center;
+}
+
+#debate {
+  width: 800px;
+  height: 600px;
+  margin: 0 auto;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+hr {
+  width: 500px;
+  border-color: #000000;
+}
